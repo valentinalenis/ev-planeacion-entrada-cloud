@@ -1,5 +1,5 @@
-host="localhost"
+host="34.75.99.160"
 port=3306
-user="root"
+user="valentina"
 password="123456"
-database="db_ev_pla_entrada"
+database="ev-entrada"

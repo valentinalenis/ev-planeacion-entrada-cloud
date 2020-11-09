@@ -1,4 +1,4 @@
-CREATE TABLE db_ev_pla_entrada.entrada (
+CREATE TABLE entradas (
   id INT(11) NOT NULL AUTO_INCREMENT,
   parametros VARCHAR(45) NOT NULL,
   dataset VARCHAR(45) NOT NULL,
