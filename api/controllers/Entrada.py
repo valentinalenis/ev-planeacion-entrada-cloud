@@ -51,6 +51,3 @@ class Entrada():
         cur.execute('DELETE FROM entrada WHERE id = {0}'.format(id))
         cnx.commit()
         return {'estado': 'Eliminado'},200
-
-if __name__ == "__main__":
-    app.run(port=3000, debug=True)
